@@ -9,7 +9,7 @@ This project demonstrates how to use Apache POI to generate Excel files dynamica
 
 - Dynamically generates Excel headers and rows based on the annotated fields in the class.
 - Supports multiple data types such as `String`, `Integer`, `Long`, `Float`, and `Double`.
-- Uses Apache POI for creating `.xls` files.
+- Uses Apache POI for creating .xls files, with the potential to adapt easily for other file types like .xlsx.
 - Customizable sheet names and column orders through annotations.
 
 ## How It Works
